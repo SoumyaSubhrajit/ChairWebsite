@@ -1,1 +1,1 @@
-# https://heyamsoumya.github.io/ChairWebsite.github.io/
+# https://chairfinder.netlify.app/
